@@ -18,7 +18,7 @@ function celebrate() {
   fetch("http://localhost:5000/wish")
 
   const wish = document.getElementById("wish");
-  wish.innerText = "Tu sirf dost nahi, family hai ❤️";
+  wish.innerText = "Tu sirf meri hi best friend ho  ❤️";
   wish.style.animation = "pop 0.5s ease-in-out";
 }
 
